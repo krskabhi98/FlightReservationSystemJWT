@@ -139,7 +139,7 @@
 					"raw": "{\"flightId\": 1}"
 				},
 				"url": {
-					"raw": "http://localhost:8080/flights/book",
+					"raw": "http://localhost:8080/flights/book/F001",
 					"protocol": "http",
 					"host": [
 						"localhost"
